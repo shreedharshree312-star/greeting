@@ -1,3 +1,2 @@
-name = input("Enter your name: ")
-
-print("Hello", name, "Welcome to DevOps!")
+name=input("Enter the name")
+print("Hello, ",name,"Welcome!")
